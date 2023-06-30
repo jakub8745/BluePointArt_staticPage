@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>test dystopia</title>
+    <link href="https://jakub8745.github.io/BluePointArt_staticPage/feed.xml" rel="self" />
+    <link href="https://jakub8745.github.io/BluePointArt_staticPage" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>dystopia</name>
+    </author>
+    <id>https://jakub8745.github.io/BluePointArt_staticPage</id>
+
+</feed>
